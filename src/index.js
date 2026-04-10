@@ -6,8 +6,9 @@ const PORT = 3000
 // dados dos integrantes
 const data = {
   integrantes: [
-    { nome: "Seu Nome Completo" },
-    { nome: "Nome do seu colega" }
+    { nome: "Igor da Rosa Mafalda" },
+    { nome: "Luan Martins Sastre" },
+    { nome: "Hiuri Machado Cardozo" },
   ]
 }
 
